@@ -75,7 +75,6 @@ The feature engineering pipeline creates sophisticated behavioral and network fe
   * scipy (1.17.1) - Scientific computing utilities
 * **Machine Learning**
   * scikit-learn (1.8.0) - Isolation Forest anomaly detection
-  * LightGBM (4.6.0) - Gradient boosting (optional advanced modeling)
 * **Graph Analytics**
   * NetworkX (3.0+) - Network construction, community detection, centrality measures
 * **Visualization**
