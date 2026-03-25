@@ -59,9 +59,9 @@ The feature engineering pipeline creates sophisticated behavioral and network fe
 
 ## Key Results
 
-* **Flagged ~2,000 suspicious transactions** (~2% of dataset) using Isolation Forest
-* **Identified multiple fraud rings** through network community detection
-* **Discovered high-risk fraud hubs** (cards, emails, devices acting as central nodes)
+* **Flagged 10,134 suspicious transactions** (~2% of dataset) using Isolation Forest
+* **Identified 6 fraud communities** through network community detection
+* **Discovered 11,427 high-risk nodes** (cards, emails, devices with risk scores)
 * **Enabled network-level fraud detection** revealing coordinated fraud patterns beyond individual anomalies
 * Generated **anomaly scores** and **node risk rankings** for prioritized investigation
 
@@ -200,7 +200,7 @@ The project follows a sequential pipeline:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/fraud-detection-project.git
+   git clone https://github.com/arshadziban/fraud-detection-project.git
    cd fraud-detection-project
    ```
 
